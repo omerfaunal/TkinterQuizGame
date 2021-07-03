@@ -1,7 +1,7 @@
 # TkinterQuizGame
-## A Quiz Game built using Python Tkinter and API.
+A Quiz Game built using Python Tkinter and API.
 
-# What are its features?
+## What are its features?
 You can select different questions from different categories.
 Because it uses API, you can solve different questions each time.
 
